@@ -1,0 +1,22 @@
+{
+  "name": "stud-backend",
+  "version": "0.0.0",
+  "description": "http server with stud ip header parsing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/stud-backend.git"
+  },
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com/)",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "stud",
+    "ip",
+    "http"
+  ],
+  "bugs": {
+    "url": "https://github.com/tellnes/stud-backend/issues"
+  }
+}
